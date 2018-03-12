@@ -11,8 +11,7 @@ license#CC Share Alike.  For details, see more info.
 #!datamodels
 Collection#Model#Label#Description
 urn:cite2:hmt:vaimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
-urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architectur model of binary images manipulable by URN reference.  See <TBA>.
-urn:cite2:hmt:binaryimg.v1:vaimg_localDeepZoom#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architectur model of binary images manipulable by URN reference.  See <TBA>.
+urn:cite2:hmt:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architectur model of binary images manipulable by URN reference.  See <TBA>.
 urn:cite2:hmt:msA.v1:#urn:cite2:cite:datamodels.v1:tbsmodel#Codex model#CITE model of a sequence of text-bearing surfaces
 urn:cite2:hmt:va_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
 
