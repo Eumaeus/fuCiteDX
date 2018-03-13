@@ -19,11 +19,18 @@ urn:cite2:hmt:va_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic S
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:hmt:vaimg.2017a:#Images of the Venetus A manuscriptscript#urn:cite2:hmt:vaimg.2017a.caption:##CC-attribution-share-alike
+urn:cite2:hmt:vbimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE model of a citable image
 urn:cite2:hmt:msA.v1:#Pages of the Venetus A manuscript#urn:cite2:hmt:msA.v1.label:#urn:cite2:hmt:msA.v1.sequence:#CC-attribution-share-alike
 // datamodels and extensions
 urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
 urn:cite2:hmt:binaryimg.v1:#Collections of binary images#urn:cite2:hmt:binaryimg.v1.label:##Public domain
 urn:cite2:hmt:va_dse.v1:#DSE model of HMT editions#urn:cite2:hmt:va_dse.v1.label:##CC-attribution-share-alike
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:hmt:vbimg.2017a.urn:#URN#Cite2Urn#
+urn:cite2:hmt:vbimg.2017a.caption:#Caption#String#
+urn:cite2:hmt:vbimg.2017a.rights:#Rights#String#
 
 #!citeproperties
 Property#Label#Type#Authority list
@@ -65,8 +72,10 @@ urn:cite2:hmt:msA.v1.defaultimg:#Default image#Cite2Urn#
 
 #!citedata
 urn#label#collection#protocol#path#url#rights
-urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#Binary data for images of the Venetus A manuscript. IIF Files at the University of Houson.#urn:cite2:hmt:vaimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
+urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vaimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
 urn:cite2:hmt:binaryimg.v1:vaimg_localDeepZoom#Binary data for images of the Venetus A manuscript. Local DeepZoom files#urn:cite2:hmt:vaimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
+urn:cite2:hmt:binaryimg.v1:vbimg_amphoreusIIF#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vbimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
+urn:cite2:hmt:binaryimg.v1:vbimg_localDeepZoom#Binary data for images of the Venetus B manuscript. Local DeepZoom files#urn:cite2:hmt:vbimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
 
 #!citedata
 urn#label#description
@@ -74,6 +83,20 @@ urn:cite2:cite:datamodels.v1:binaryimg#Binary image model#Model of binary images
 urn:cite2:cite:datamodels.v1:imagemodel#Citable images#Model of citable images from the CITE Architecture.  See <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
 
+#!citedata
+urn#caption#rights
+urn:cite2:hmt:vbimg.2017a:VBMSFlyleaf_rectoUV_0001#Venetus B: Marcianus Graecus Z. 453 (= 821), flyleaf, recto (ultraviolet light).#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VBMSFront_cover_page_pasted_down_rectoN_0444#Venetus B: Marcianus Graecus Z. 453 (= 821), flyleaf, recto (natural light).#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VBMSPage_pasted_down_versoN_0100#Venetus B: Marcianus Graecus Z. 453 (= 821), CAPTION?.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VBMSFlyleaf_versoUV_0096#Venetus B: Marcianus Graecus Z. 453 (= 821), flyleaf, vers (ultraviolet light).#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VBMSFront_flyleaf_rectoN_0443#Venetus B: Marcianus Graecus Z. 453 (= 821), flyleaf 2, recto (natural light).#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VBMSFlyleaf_versoN_0099#Venetus B: Marcianus Graecus Z. 453 (= 821), CAPTION?.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VB001RN_0445#Venetus B: Marcianus Graecus Z. 453 (= 821), folio 1, recto.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VB001RUV_0002#Venetus B: Marcianus Graecus Z. 453 (= 821), folio 1, recto.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VB001VN_0101#Venetus B: Marcianus Graecus Z. 453 (= 821), folio 1, verso.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VB001VUV_0095#Venetus B: Marcianus Graecus Z. 453 (= 821), folio 1, verso.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VB002RN_0446#Venetus B: Marcianus Graecus Z. 453 (= 821), folio 2, recto.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
+urn:cite2:hmt:vbimg.2017a:VB002RUV_0003#Venetus B: Marcianus Graecus Z. 453 (= 821), folio 2, recto.#This image was derived from an original ©2007, Biblioteca Nazionale Marciana, Venezie, Italia. The derivative image is ©2010, Center for Hellenic Studies. Original and derivative are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License. The CHS/Marciana Imaging Project was directed by David Jacobs of the British Library.
 
 #!citedata
 urn#caption#rights
