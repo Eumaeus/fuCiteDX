@@ -19,7 +19,7 @@ urn:cite2:hmt:va_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic S
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:hmt:vaimg.2017a:#Images of the Venetus A manuscriptscript#urn:cite2:hmt:vaimg.2017a.caption:##CC-attribution-share-alike
-urn:cite2:hmt:vbimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE model of a citable image
+urn:cite2:hmt:vbimg.2017a:#Images of the Venetus B manuscriptscript#urn:cite2:hmt:vbimg.2017a.caption:##CC-attribution-share-alike
 urn:cite2:hmt:msA.v1:#Pages of the Venetus A manuscript#urn:cite2:hmt:msA.v1.label:#urn:cite2:hmt:msA.v1.sequence:#CC-attribution-share-alike
 // datamodels and extensions
 urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
