@@ -13,6 +13,7 @@ Collection#Model#Label#Description
 urn:cite2:hmt:vaimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:hmt:vbimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:hmt:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architectur model of binary images manipulable by URN reference.  See <TBA>.
+urn:cite2:hmt:binaryimg2.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architectur model of binary images manipulable by URN reference.  See <TBA>.
 urn:cite2:hmt:msA.v1:#urn:cite2:cite:datamodels.v1:tbsmodel#Codex model#CITE model of a sequence of text-bearing surfaces
 urn:cite2:hmt:va_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
 
@@ -25,6 +26,7 @@ urn:cite2:hmt:msA.v1:#Pages of the Venetus A manuscript#urn:cite2:hmt:msA.v1.lab
 // datamodels and extensions
 urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
 urn:cite2:hmt:binaryimg.v1:#Collections of binary images#urn:cite2:hmt:binaryimg.v1.label:##Public domain
+urn:cite2:hmt:binaryimg2.v1:#Collections of binary images (a second one, for testing)#urn:cite2:hmt:binaryimg2.v1.label:##Public domain
 urn:cite2:hmt:va_dse.v1:#DSE model of HMT editions#urn:cite2:hmt:va_dse.v1.label:##CC-attribution-share-alike
 
 #!citeproperties
@@ -65,6 +67,16 @@ urn:cite2:hmt:binaryimg.v1.rights:#Rights#String#
 
 #!citeproperties
 Property#Label#Type#Authority list
+urn:cite2:hmt:binaryimg2.v1.urn:#Binary Image#Cite2Urn#
+urn:cite2:hmt:binaryimg2.v1.label:#Label#String#
+urn:cite2:hmt:binaryimg2.v1.collection:#Image Collection#Cite2Urn#
+urn:cite2:hmt:binaryimg2.v1.protocol:#Protocol#String#iiifApi,localDeepZoom
+urn:cite2:hmt:binaryimg2.v1.path:#Path on Server#String#
+urn:cite2:hmt:binaryimg2.v1.url:#Service URN Base#String#
+urn:cite2:hmt:binaryimg2.v1.rights:#Rights#String#
+
+#!citeproperties
+Property#Label#Type#Authority list
 urn:cite2:hmt:msA.v1.sequence:#Page sequence#Number#
 urn:cite2:hmt:msA.v1.urn:#URN#Cite2Urn#
 urn:cite2:hmt:msA.v1.rv:#Recto or Verso#String#recto,verso
@@ -75,8 +87,11 @@ urn:cite2:hmt:msA.v1.defaultimg:#Default image#Cite2Urn#
 urn#label#collection#protocol#path#url#rights
 urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vaimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
 urn:cite2:hmt:binaryimg.v1:vaimg_localDeepZoom#Binary data for images of the Venetus A manuscript. Local DeepZoom files#urn:cite2:hmt:vaimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
-urn:cite2:hmt:binaryimg.v1:vbimg_amphoreusIIF#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vbimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
-urn:cite2:hmt:binaryimg.v1:vbimg_localDeepZoom#Binary data for images of the Venetus B manuscript. Local DeepZoom files#urn:cite2:hmt:vbimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
+
+#!citedata
+urn#label#collection#protocol#path#url#rights
+urn:cite2:hmt:binaryimg2.v1:vbimg_amphoreusIIF#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vbimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
+urn:cite2:hmt:binaryimg2.v1:vbimg_localDeepZoom#Binary data for images of the Venetus B manuscript. Local DeepZoom files#urn:cite2:hmt:vbimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
 
 #!citedata
 urn#label#description
