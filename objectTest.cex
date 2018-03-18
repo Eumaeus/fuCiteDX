@@ -60,7 +60,7 @@ Property#Label#Type#Authority list
 urn:cite2:hmt:binaryimg.v1.urn:#Binary Image#Cite2Urn#
 urn:cite2:hmt:binaryimg.v1.label:#Label#String#
 urn:cite2:hmt:binaryimg.v1.collection:#Image Collection#Cite2Urn#
-urn:cite2:hmt:binaryimg.v1.protocol:#Protocol#String#iiifApi,localDeepZoom
+urn:cite2:hmt:binaryimg.v1.protocol:#Protocol#String#iiifApi,localDeepZoom,JPG,iiifDeepZoom
 urn:cite2:hmt:binaryimg.v1.path:#Path on Server#String#
 urn:cite2:hmt:binaryimg.v1.url:#Service URN Base#String#
 urn:cite2:hmt:binaryimg.v1.rights:#Rights#String#
@@ -70,7 +70,7 @@ Property#Label#Type#Authority list
 urn:cite2:hmt:binaryimg2.v1.urn:#Binary Image#Cite2Urn#
 urn:cite2:hmt:binaryimg2.v1.label:#Label#String#
 urn:cite2:hmt:binaryimg2.v1.collection:#Image Collection#Cite2Urn#
-urn:cite2:hmt:binaryimg2.v1.protocol:#Protocol#String#iiifApi,localDeepZoom
+urn:cite2:hmt:binaryimg2.v1.protocol:#Protocol#String#iiifApi,DeepZoom,JPG
 urn:cite2:hmt:binaryimg2.v1.path:#Path on Server#String#
 urn:cite2:hmt:binaryimg2.v1.url:#Service URN Base#String#
 urn:cite2:hmt:binaryimg2.v1.rights:#Rights#String#
@@ -85,15 +85,24 @@ urn:cite2:hmt:msA.v1.defaultimg:#Default image#Cite2Urn#
 
 #!citedata
 urn#label#collection#protocol#path#url#rights
-urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vaimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
-urn:cite2:hmt:binaryimg.v1:vaimg_localDeepZoom#Binary data for images of the Venetus A manuscript. Local DeepZoom files#urn:cite2:hmt:vaimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
-urn:cite2:hmt:binaryimg.v1:vbimg_amphoreusIIF#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vbimg.2017a:#iiifApi#/project/homer/pyramidal/VenB/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
-urn:cite2:hmt:binaryimg.v1:vbimg_localDeepZoom#Binary data for images of the Venetus B manuscript. Local DeepZoom files#urn:cite2:hmt:vbimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
 
-#!citedata
-urn#label#collection#protocol#path#url#rights
-urn:cite2:hmt:binaryimg2.v1:vbimg_amphoreusIIF#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vbimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
-urn:cite2:hmt:binaryimg2.v1:vbimg_localDeepZoom#Binary data for images of the Venetus B manuscript. Local DeepZoom files#urn:cite2:hmt:vbimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
+urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vaimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vaimg_iiifDeepZoom#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson. (must add .tif.dzi)#urn:cite2:hmt:vaimg.2017a:#iiifDeepZoom#/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/#http://www.homermultitext.org/iipsrv?DeepZoom=#Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vbimg_iiifDeepZoom#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson. (must add .tif.dzi)#urn:cite2:hmt:vbimg.2017a:#iiifDeepZoom#/project/homer/pyramidal/deepzoom/hmt/vbimg/2017a/#http://www.homermultitext.org/iipsrv?DeepZoom=#Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vaimg_localDeepZoom#Binary data for images of the Venetus A manuscript. DeepZoom files#urn:cite2:hmt:vaimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vaimg_localJPG#Binary data for images of the Venetus A manuscript. DeepZoom files#urn:cite2:hmt:vaimg.2017a:#JPG#image_archive##Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vbimg_amphoreusIIF#Binary data for images of the Venetus B manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vbimg.2017a:#iiifApi#/project/homer/pyramidal/VenB/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vbimg_localDeepZoom#Binary data for images of the Venetus B manuscript. DeepZoom files#urn:cite2:hmt:vbimg.2017a:#localDeepZoom#image_archive##Creative Commons Attribution Share-Alike.
+
+urn:cite2:hmt:binaryimg.v1:vbimg_localJPG#Binary data for images of the Venetus B manuscript. DeepZoom files#urn:cite2:hmt:vbimg.2017a:#JPG#image_archive##Creative Commons Attribution Share-Alike.
+
+
 
 #!citedata
 urn#label#description
