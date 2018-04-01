@@ -18,11 +18,11 @@ urn:cite2:fufolio:poxy2099_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Di
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:fufolio:papyri.2018a:#Images of Papyri: Furman Research#urn:cite2:fufolio:papyri.2018a.caption:##CC-attribution-share-alike
-urn:cite2:fufolio:poxy2099.v1:#Papyrus POxy 2099#urn:cite2:fufolio:poxy2099.v1.label:#urn:cite2:fufolio:poxy2099.v1.sequence:#CC-attribution-share-alike
+urn:cite2:fufolio:poxy2099.v1:#Papyrus POxy 2099#urn:cite2:fufolio:poxy2099.v1.label:#urn:cite2:fufolio:poxy2099.v1.sequence:#Public Domain
 // datamodels and extensions
 urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
 urn:cite2:fufolio:binaryimg.v1:#Collections of binary images#urn:cite2:fufolio:binaryimg.v1.label:##Public domain
-urn:cite2:fufolio:poxy2099_dse.v1:#DSE model of HMT editions#urn:cite2:fufolio:poxy2099_dse.v1.label:##CC-attribution-share-alike
+urn:cite2:fufolio:poxy2099_dse.v1:#DSE model of HMT editions#urn:cite2:fufolio:poxy2099_dse.v1.label:#urn:cite2:fufolio:poxy2099_dse.v1.seq:#CC-attribution-share-alike
 
 #!citeproperties
 Property#Label#Type#Authority list
@@ -34,6 +34,7 @@ urn:cite2:fufolio:papyri.2018a.rights:#Rights#String#
 Property#Label#Type#Authority list
 urn:cite2:fufolio:poxy2099_dse.v1.urn:#DSE record#Cite2Urn#
 urn:cite2:fufolio:poxy2099_dse.v1.label:#Label#String#
+urn:cite2:fufolio:poxy2099_dse.v1.seq:#Sequence#Number#
 urn:cite2:fufolio:poxy2099_dse.v1.passage:#Text passage#CtsUrn#
 urn:cite2:fufolio:poxy2099_dse.v1.imageroi:#Image region of interest#Cite2Urn#
 urn:cite2:fufolio:poxy2099_dse.v1.surface:#Artifact surface#Cite2Urn#
@@ -85,8 +86,13 @@ sequence#urn#rv#label#defaultimg
 0#urn:cite2:fufolio:poxy2099.v1:1#recto#P.Oxy 2099#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01
 
 #!citedata
-urn#label#passage#imageroi#surface
-urn:cite2:fufolio:poxy2099_dse.v1:il80#DSE record for testing#urn:cts:greekLit:tlg0016.tlg001.grc:8.1#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.2291,0.3906,0.2179,0.06809#urn:cite2:fufolio:poxy2099.v1:1
+seq#urn#label#passage#imageroi#surface
+1#urn:cite2:fufolio:poxy2099_dse.v1:82368#DSE record for Hdt. 8.23.68 (urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.68)#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.68#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.2283,0.3957,0.2131,0.04936#urn:cite2:fufolio:poxy2099.v1:1
+2#urn:cite2:fufolio:poxy2099_dse.v1:82369#DSE record for Hdt. 8.23.69 (urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.69)#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.69#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.4477,0.4068,0.2251,0.05617#urn:cite2:fufolio:poxy2099.v1:1
+3#urn:cite2:fufolio:poxy2099_dse.v1:82370#DSE record for Hdt. 8.23.70 (urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.70)#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.70#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.6560,0.4043,0.06784,0.04000#urn:cite2:fufolio:poxy2099.v1:1
+4#urn:cite2:fufolio:poxy2099_dse.v1:82371a#DSE record for Hdt. 8.23.71a (urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.71)#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.71#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.6616,0.4230,0.06784,0.04000#urn:cite2:fufolio:poxy2099.v1:1
+5#urn:cite2:fufolio:poxy2099_dse.v1:82371b#DSE record for Hdt. 8.23.71b (urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.71)#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.71#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.2314,0.4570,0.09816,0.04681#urn:cite2:fufolio:poxy2099.v1:1
+5#urn:cite2:fufolio:poxy2099_dse.v1:82372#DSE record for Hdt. 8.23.72 (urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.72)#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.72#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.3344,0.4681,0.2370,0.05617#urn:cite2:fufolio:poxy2099.v1:1
 
 
 #!ctscatalog
@@ -101,7 +107,7 @@ urn:cts:greekLit:tlg0016.tlg001.grc:8.22#Ἀθηναίων δὲ νέας τ�
 urn:cts:greekLit:tlg0016.tlg001.grc:8.23#Θεμιστοκλέης μὲν ταῦτα ἐνέγραψε. Τοῖσι δὲ βαρβάροισι αὐτίκα μετὰ ταῦτα πλοίῳ ἦλθε ἀνὴρ Ἱστιαιεὺς ἀγγέλλων τὸν δρησμὸν τὸν ἀπ᾽ Ἀρτεμισίου τῶν Ἑλλήνων. Οἱ δ᾽ ὑπ᾽ ἀπιστίης τὸν μὲν ἀγγέλλοντα εἶχον ἐν φυλακῇ, νέας δὲ ταχέας ἀπέστειλαν προκατοψομένας. Ἀπαγγειλάντων δὲ τούτων τὰ ἦν, οὕτω δὴ ἅμα ἡλίῳ σκιδναμένῳ ἅπασα ἡ στρατιὴ ἔπλεε ἁλὴς ἐπὶ τὸ Ἀρτεμίσιον. Ἐπισχόντες δὲ ἐν τούτῳ τῷ χώρῳ μέχρι μέσου ἡμέρης, τὸ ἀπὸ τούτου ἔπλεον ἐς Ἱστιαίην· ἀπικόμενοι δὲ τὴν πόλιν ἔσχον τῶν Ἱστιαιέων, καὶ τῆς Ἐλλοπίης μοίρης, γῆς δὲ τῆς Ἱστιαιώτιδος, τὰς παραθαλασσίας κώμας πάσας ἐπέδραμον.
 
 #!ctsdata
-urn:cts:greekLit:tlg0016.tlg001.eng:8.22#Themistocles however selected those ships of the Athenians which sailed best, and went round to the springs of drinking-water, cutting inscriptions on the stones there, which the Ionians read when they came to Artemision on the following day. These inscriptions ran thus:"Ionians, ye act not rightly in making expedition against the fathers of your race and endeavouring to enslave Hellas. Best of all were it that ye should come and be on our side; but if that may not be done by you, stand aside even now from the combat against us and ask the Carians to do the same as ye. If however neither of these two things is possible to be done, and ye are bound down by too strong compulsion to be able to make revolt, then in the action, when we engage battle, be purposely slack, remember that ye are descended from us and that our quarrel with the Barbarian took its rise at the first from you." 
+urn:cts:greekLit:tlg0016.tlg001.eng:8.22#Themistocles however selected those ships of the Athenians which sailed best, and went round to the springs of drinking-water, cutting inscriptions on the stones there, which the Ionians read when they came to Artemision on the following day. These inscriptions ran thus: "Ionians, ye act not rightly in making expedition against the fathers of your race and endeavouring to enslave Hellas. Best of all were it that ye should come and be on our side; but if that may not be done by you, stand aside even now from the combat against us and ask the Carians to do the same as ye. If however neither of these two things is possible to be done, and ye are bound down by too strong compulsion to be able to make revolt, then in the action, when we engage battle, be purposely slack, remember that ye are descended from us and that our quarrel with the Barbarian took its rise at the first from you." 
 urn:cts:greekLit:tlg0016.tlg001.eng:8.23#Themistocles wrote thus, having, as I suppose, two things together in his mind, namely that either the inscriptions might elude the notice of the king and cause the Ionians to change and come over to the side on which he was, or that having been reported and denounced to Xerxes they might cause the Ionians to be distrusted by him, and so he might keep them apart from the sea- fights. Themistocles then had set these inscriptions: and to the Barbarians there came immediately after these things a man of Histaia in a boat bringing word of the retreat of the Hellenes from Artemision. They however, not believing it, kept the messenger under guard and sent swift-sailing ships to look on before. Then these having reported the facts, at last as daylight was spreading over the sky, the whole armament sailed in a body to Artemision; and having stayed at this place till mid-day, after this they sailed to Histaia, and there arrived they took possession of the city of Histaia and overran all the villages which lie along the coast in the region of Ellopia, which is the land of Histaia.
 
 #!ctsdata
