@@ -11,7 +11,6 @@ license#CC Share Alike.  For details, see more info.
 #!datamodels
 Collection#Model#Label#Description
 urn:cite2:hmt:vaimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
-urn:cite2:hmt:vbimg.2017a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:hmt:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architecture model of binary images manipulable by URN reference.  See <TBA>.
 urn:cite2:hmt:binaryimg2.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architecture model of binary images manipulable by URN reference.  See <TBA>.
 urn:cite2:hmt:msA.v1:#urn:cite2:cite:datamodels.v1:tbsmodel#Codex model#CITE model of a sequence of text-bearing surfaces
@@ -85,7 +84,6 @@ urn:cite2:hmt:msA.v1.defaultimg:#Default image#Cite2Urn#
 
 #!citedata
 urn#label#collection#protocol#path#url#rights
-
 urn:cite2:hmt:binaryimg.v1:vaimg_amphoreusIIF#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson.#urn:cite2:hmt:vaimg.2017a:#iiifApi#/project/homer/pyramidal/VenA/#http://www.homermultitext.org/iipsrv?#Creative Commons Attribution Share-Alike.
 
 urn:cite2:hmt:binaryimg.v1:vaimg_iipDeepZoom#Binary data for images of the Venetus A manuscript. IIIF Files at the University of Houson. (must add .tif.dzi)#urn:cite2:hmt:vaimg.2017a:#iipDeepZoom#/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/#http://www.homermultitext.org/iipsrv?DeepZoom=#Creative Commons Attribution Share-Alike.
