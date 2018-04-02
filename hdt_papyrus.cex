@@ -19,6 +19,7 @@ urn:cite2:fufolio:poxy2099_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Di
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:fufolio:papyri.2018a:#Images of Papyri: Furman Research#urn:cite2:fufolio:papyri.2018a.caption:##CC-attribution-share-alike
 urn:cite2:fufolio:poxy2099.v1:#Papyrus POxy 2099#urn:cite2:fufolio:poxy2099.v1.label:#urn:cite2:fufolio:poxy2099.v1.sequence:#Public Domain
+urn:cite2:fufolio:macan_hdt.2018demo:#Reginald Walter Macan's Commentary on Herodotus#urn:cite2:fufolio:macan_hdt.2018demo.label:#urn:cite2:fufolio:macan_hdt.2018demo.seq:#CC-BY-SA 3.0
 // datamodels and extensions
 urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
 urn:cite2:fufolio:binaryimg.v1:#Collections of binary images#urn:cite2:fufolio:binaryimg.v1.label:##Public domain
@@ -101,6 +102,7 @@ urn:cts:greekLit:tlg0016.tlg001.grc:#book/section#Herodotus#Histories#Greek, God
 urn:cts:greekLit:tlg0016.tlg001.grc.tokens:#book/section/token#Herodotus#Histories#Greek, Godley, ed.#tokenized#true#grc
 urn:cts:greekLit:tlg0016.tlg001.eng:#book/section#Herodotus#Histories#English, trans. Godley##true#eng
 urn:cts:greekLit:tlg0016.tlg001.eng.tokens:#book/section/token#Herodotus#Histories#English, trans. Godley#tokenized, no punctuation#true#eng
+urn:cts:fufolio:howwells.commentary.perseus:#book/section/comment#W. W. How, J. Wells#A Commentary on Herodotus#Perseus Digital Library ed.##true#eng
 
 #!ctsdata
 urn:cts:greekLit:tlg0016.tlg001.grc:8.22#Ἀθηναίων δὲ νέας τὰς ἄριστα πλεούσας ἐπιλεξάμενος Θεμιστοκλέης ἐπορεύετο περὶ τὰ πότιμα ὕδατα, ἐντάμνων ἐν τοῖσι λίθοισι γράμματα, τὰ Ἴωνες ἐπελθόντες τῇ ὑστεραίῃ ἡμέρῃ ἐπὶ τὸ Ἀρτεμίσιον ἐπελέξαντο. Τὰ δὲ γράμματα τάδε ἔλεγε· "Ἄνδρες Ἴωνες, οὐ ποιέετε δίκαια ἐπὶ τοὺς πατέρας στρατευόμενοι καὶ τὴν Ἑλλάδα καταδουλούμενοι. Ἀλλὰ μάλιστα μὲν πρὸς ἡμέων γίνεσθε· εἰ δὲ ὑμῖν ἐστι τοῦτο μὴ δυνατὸν ποιῆσαι, ὑμεῖς δὲ ἔτι καὶ νῦν ἐκ τοῦ μέσου ἡμῖν ἕζεσθε καὶ αὐτοὶ καὶ τῶν Καρῶν δέεσθε τὰ αὐτὰ ὑμῖν ποιέειν· εἰ δὲ μηδέτερον τούτων οἷόν τε γίνεσθαι, ἀλλ᾽ ὑπ᾽ ἀναγκαίης μέζονος κατέζευχθε ἢ ὥστε ἀπίστασθαι. ὑμεῖς δὲ ἐν τῷ ἔργῳ, ἐπεὰν συμμίσγωμεν, ἐθελοκακέετε, μεμνημένοι ὅτι ἀπ᾽ ἡμέων γεγόνατε καὶ ὅτι ἀρχῆθεν ἡ ἔχθρη πρὸς τὸν βάρβαρον ἀπ᾽ ὑμέων ἡμῖν γέγονε." Θεμιστοκλέης δὲ ταῦτα ἔγραφε, δοκέειν ἐμοί, ἐπ᾽ ἀμφότερα νοέων, ἵνα ἢ λαθόντα τὰ γράμματα βασιλέα Ἴωνας ποιήσῃ μεταβαλεῖν καὶ γενέσθαι πρὸς ἑωυτῶν, ἢ ἐπείτε ἂν ἀνενειχθῇ καὶ διαβληθῇ πρὸς Ξέρξην, ἀπίστους ποιήσῃ τοὺς Ἴωνας καὶ τῶν ναυμαχιέων αὐτοὺς ἀπόσχῃ.
@@ -717,3 +719,66 @@ urn:cts:greekLit:tlg0016.tlg001.eng.tokens:8.23.205#the
 urn:cts:greekLit:tlg0016.tlg001.eng.tokens:8.23.206#land
 urn:cts:greekLit:tlg0016.tlg001.eng.tokens:8.23.207#of
 urn:cts:greekLit:tlg0016.tlg001.eng.tokens:8.23.208#Histaia
+
+#!ctsdata
+urn:cts:fufolio:howwells.commentary.perseus:8.22.1#τὰ πότιμα ὕδατα: i. e. on the coast of Histiaeotis, to which the Persian fleet crossed next day (ch. 23). With this appeal (rhetorically worked up by Justin, ii. 12. 3) cf. the fears of Artabanus and Xerxes' reply (vii. 51-2). It was more successful in causing suspicion of the Ionians (ch. 90) than in securing actual desertion (ch. 85.)
+urn:cts:fufolio:howwells.commentary.perseus:8.23.1#σκιδναμένῳ: of rays of light; cf. Hom. Il. vii. 451, and especially xxiii. 227 κροκόπεπλος ὑπεὶρ ἅλα κίδναται ἠώς.
+urn:cts:fufolio:howwells.commentary.perseus:8.22.2#Ἐλλοπίης: the old name for the whole northern half of Euboea, of which the territory of Histiaea or Oreus (vii. 175. 2), comprising the northern coastland, formed a part.
+
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:macan_hdt.2018demo.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:macan_hdt.2018demo.label:#Label#String#
+urn:cite2:fufolio:macan_hdt.2018demo.seq:#Sequence#Number#
+urn:cite2:fufolio:macan_hdt.2018demo.passage:#Passage#CtsUrn#
+urn:cite2:fufolio:macan_hdt.2018demo.comment:#Comment#String#
+
+
+
+#!citedata
+urn#label#seq#passage#comment
+urn:cite2:fufolio:macan_hdt.2018demo:1000#8.22 Θεμιστοκλέης#1000#urn:cts:greekLit:tlg0016.tlg001.grc:8.22#Θεμιστοκλέης here puts into operation the παλάμη announced in c. 19 supra. The employment of ἐπιλεξάμενος followed by ἐπελέξαντο in a different sense (ἐπιλέγεσθαι eligere 6. 73, 7. 10, etc., legere c. 136 infra, etc.) is not quite happy: an ‘unconscious iteration.’ 
+
+urn:cite2:fufolio:macan_hdt.2018demo:1001#8.22 Θεμιστοκλέης#1001#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ἐπορεύετο περὶ τὰ πότιμα ὕδατα: he would, of course, have to land in order to do this: what time of day was it? The battle had begun at mid-day, or somewhat later, c. 15 supra; the hour at which it ended has not been specified; but it had been a long and heavy engagement, in which half the Athenian vessels had been damaged (c. 18 supra): then, according to Hdt., a council was held—the account of which is obscure. Then, the news of the disaster at Thermopylai is brought by Abronichos, and retreat becomes at once inevitable; but Themistokles now proceeds to carry out his projected παλάμη. How many the springs, or fountains, to which the device was applied Hdt. does not say.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1002#8.22 ἐντάμνων ἐν τοῖσι λίθοισι γράμματα.#1002#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ἐντάμνων ἐν τοῖσι λίθοισι γράμματα. We are to understand that these inscriptions were incised (and coloured?) in the living rocks, or in some cases in the stones (marble) with which the springs, or cisterns, were fenced and builded. These inscriptions were read by the Ionians on the very next day; cp c. 23 infra: were they ever read by any other mortals thereafter? How many times the inscription was reproduced by Themistokles Hdt. does not specify, but he gives the ipsissima verba, which ‘cut the record,’ for argument and rhetoric in inscriptions, a veritable ‘sermon in stones’; had Hdt. copied the same? Did ‘Ionians’ remember and report them at home? Is the aneedote an Attic invention? The appeal reads in any case more like a letter or an oral address than like a hastily cut inscription, and that in duplicate. There was no need to cut these inseriptions; they might as well have been simply written or painted up.
+
+
+urn:cite2:fufolio:macan_hdt.2018demo:1003#8.22 τὰ δὲ γράμματα τάδε ἔλεγε#1003#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# τὰ δὲ γράμματα τάδε ἔλεγε: a conclusive proof of the use of λέγειν, λόγοι, et sim. for seript. The order of the words τάδε ἔλεγε is unusual, but occurs also 2. 136 in a less abrupt form.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1004#8.22 ἐπὶ τοὺς πατέρας#1004#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ἐπὶ τοὺς πατέρας: cp. 7. 51, where the same point and the same moral are urged by Artabanos.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1005#8.22 μάλιστα μὲν ... εἰ δὲ ... μή#1005#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# μάλιστα μὲν ... εἰ δὲ ... μή: perhaps the earliest instance of the employment of this rhetorieal formula; cp. Thuc. 1. 40. 4, Plato Rep. 590 D, etc.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1006#8.22 ὑμεῖς δέ#1006#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ὑμεῖς δέ: a genuine δέ in apodosi; the construction is repeated immediately below; cp. 7. 50, and Index.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1007#8.22 ἐκ τοῦ μέσου ἡμῖν ἕζεσθε#1007#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ἐκ τοῦ μέσου ἡμῖν ἕζεσθε, ‘assume a neutral position’; cp. 4. 118 ὑμεῖς ὦν μηδενὶ τρόπῳ ἐκ τοῦ μέσου κατήμενοι περιίδητε ἡμέας διαφθαρέντας. Also 3. 83 and c. 73 infra. ἡμῖν dat. ethicus, ‘we pray you’—
+
+urn:cite2:fufolio:macan_hdt.2018demo:1008#8.22 τῶν Καρῶν δέεσθε#1008#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# τῶν Καρῶν δέεσθε: cp. c. 19 supra; and for δέεσθαι cc. 3, 4 supra.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1009#8.22 εἰ δὲ μηδέτερον τούτων#1009#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# εἰ δὲ μηδέτερον τούτων: three courses are open to the Ionians, more or less consistent with their duty to their fathers: (i.) μάλιστα μέν, to desert the Persian and join the Greeks (πρὸς Ἑλλήνων γίνεσθαι); (ii.) εἰ δὲ μή, to leave the Persian and assume a neutral position (ἐκ τοῦ μέσου ἕζεσθαι, κατῆσθαι); (iii.) to play the Persian false in the hour of battle (ἐν τῷ ἔργῳ ἐθελοκακέειν).
+
+urn:cite2:fufolio:macan_hdt.2018demo:1010#8.22 μέζονος ... ἢ ὥστε ἀπίστασθαι#1010#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# μέζονος ... ἢ ὥστε ἀπίστασθαι. The conjunction ὥστε is not de rigueur in this construction of the infinitive after a comparative, but is certainly in place; cp. Madvig, G.S. 150 c.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1011#8.22 ἀρχῆθεν ἡ ἔχθρη#1011#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ἀρχῆθεν ἡ ἔχθρη: a parallel argument is addressed to the Athenians by the Spartans c. 142 infra. The reference here is, of course, to the Ionian revolt and the part taken by Athens therein; but, as Hdt. 5. 73. 96, 97 clearly shows, the casus belli between Athens and Persia was already in existence before Athens espoused the cause of the Ionians, and the participation in the Ionian revolt was the effect and not the cause of the Athenian enmity with Sardes and with Susa.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1012#8.22 δοκέειν ἐμοί, ἐπ᾽ ἀμφότερα νοέων#1012#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# δοκέειν ἐμοί, ἐπ᾽ ἀμφότερα νοέων: was this very obvious design really a discovery of Hdt.'s, or was the doublemindedness of Themistokles other than commendable?
+
+urn:cite2:fufolio:macan_hdt.2018demo:1013#8.22 μεταβαλεῖν#1013#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# μεταβαλεῖν, intransitive; 7. 52.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1014#8.22 καὶ διαβληθῇ#1014#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# καὶ διαβληθῇ: sc. τὰ γράμματα; a curious phrase, though the meaning of διαβάλλειν cannot be doubtful; cp. 5. 50, 97 etc. But the sentence is rather clumsy, τὰ γράμματα as the subject of ποιήσῃ and of ἀπόσχῃ being harsh.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1015#8.22 ἀπίστους#1015#urn:cts:greekLit:tlg0016.tlg001.grc:8.22# ἀπίστους, passive; 9. 98.
+
+urn:cite2:fufolio:macan_hdt.2018demo:1016#8.23 αὐτίκα μετὰ ταῦτα#1016#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# αὐτίκα μετὰ ταῦτα: still at night?
+urn:cite2:fufolio:macan_hdt.2018demo:1017#8.23 πλοίῳ#1017#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# πλοίῳ: the size of this boat is not specified; was the man of Histiaia alone in it? And why is not his proper name given? The retreat is a δρησμός—is that the man's word, or Hdt.'s?
+urn:cite2:fufolio:macan_hdt.2018demo:1018#8.23 ὑπ᾽ ἀπιστίης#1018#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# ὑπ᾽ ἀπιστίης: the man evidently went to Aphetai; if the Persian admirals actually disbelieved his report, they can hardly have heard as yet of the capture of Thermopylai. εἶχον ἐν φυλακῇ, ‘kept under arrest.’
+urn:cite2:fufolio:macan_hdt.2018demo:1019#8.23 τούτων#1019#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# τούτων, masculine, of the men on the ships; cp. 7. 179. 4 supra. τὰ ἦν: the true state of the case, the facts.
+urn:cite2:fufolio:macan_hdt.2018demo:1020#8.23 ἅμα ἡλίῳ σκιδναμένῳ#1020#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# ἅμα ἡλίῳ σκιδναμένῳ: dawn of the fourth day (say Wednesday); the phrase is peculiar: σκίδναμαι (σκίδνημι), cp 7. 141 (σκιδναμένης Δημήτερος), here seems to refer to the dispersion of light, the diffusion of rays by the sun. Blakesley cps. Milton's “Morn sowing the earth with orient pearl.” Cp. also Aischyl. Pers. 502 “πρὶν σκεδασθῆναι θεοῦ Ἀκτῖνας”. Also Psalm 97. 11 (R. V. “Light is sown for the righteous”).
+urn:cite2:fufolio:macan_hdt.2018demo:1021#8.23 πᾶσα ἡ στρατιή#1021#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# πᾶσα ἡ στρατιή: sc. ἡ ναυτική.
+urn:cite2:fufolio:macan_hdt.2018demo:1022#8.23 ἁλής#1022#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# ἁλής, without stragglers, and without detaching any scouts, etc., en masse.
+urn:cite2:fufolio:macan_hdt.2018demo:1023#8.23 ἐπισχόντες ... μέχρι μέσου ἡμέρης#1023#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# ἐπισχόντες ... μέχρι μέσου ἡμέρης: the hour at which they had moved out to battle on the previous day (c. 15 supra, which also shows that μέσου here is neuter). The double omission of the article may be easily understood in a colloquialism. There is no eagerness to pursue the Greek fleet; cp. c. 10 supra. τὸ ἀπὸ τούτου appears to be temporal.
+urn:cite2:fufolio:macan_hdt.2018demo:1024#8.23 τὴν πόλιν ἔσχον#1024#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# τὴν πόλιν ἔσχον: cp. 7. 164 for the strong ἔχω. They seem to have had no resistance to encounter. Ἱστιαία (ἡ) suffered afterwards a worse fate from the Athenians in 446 B.C., Ἑστιαιᾶς δὲ ἐξοικίσαντες αὐτοὶ τὴν γῆν ἔσχον, Thuc. 1. 114. 3; cp. Hicks, Manual,2 p. 65, though there is no reference to that catastrophe here. It hardly seems likely that Histiaia was no more and its place taken by Oreos (the name which yet prevails) when Hdt. wrote this passage; in other words, the first draft of his history is appreciably older than the thirty years' truce; cp. Introduction, § 9.
+urn:cite2:fufolio:macan_hdt.2018demo:1025#8.23 τῆς Ἐλλοπίης μοίρης γῆς δὲ τῆς Ἱστιαιώτιδος#1025#urn:cts:greekLit:tlg0016.tlg001.grc:8.23# τῆς Ἐλλοπίης μοίρης γῆς δὲ τῆς Ἱστιαιώτιδος, commentators (so Rawlinson, Baehr) have misunderstood the relation of these terms, and made ἡ Ἐλλοπίη μοίρη a part of Histiaiotis; as Stein rightly points out, γῆς δέ is a “second closer definition,” according to a regnlar use of δέ, cp. 1. 114. The Persians did not over-run Euboia, but only Ellopia, or Hellopia, nor all Hellopia, but only Histiaiotis, nor yet quite all Histiaiotis, but only τὰς παραθαλασσίας κώμας—though not one of those they spared (πάσας). The Persians did not venture far from their ships. Hellopia is no doubt the land of the Ἕλλοπες, an interesting and surely primitive folk, in view of their congeners Δρύοπες, Δόλοπες, Κέκροπες (Κεκροπίδαι), Κύκλοπες (Κύκλωπες), Πέλοπες (Πελοπίδαι) and others like. Perhaps Ἕλλοπες is not far removed from Ἔλληνες itself; Strabo 445 gives Ἐλλοπία as a name for Euboia, ἀπὸ Ἔλλοπος τοῦ Ἴωνος. Elsewhere (328) he qnotes Philochoros as saying τὸν περὶ Δωδώνην τόπον, ὥσπερ τὴν Εὔβοιαν, Ἑλλοπίαν κληθῆναι (on the authority of Hesiod); and connects Ἑλλοί (Σελλοί） and Ἕλλοπες.
+
