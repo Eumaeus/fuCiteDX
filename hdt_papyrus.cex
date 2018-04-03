@@ -14,6 +14,7 @@ Collection#Model#Label#Description
 urn:cite2:fufolio:papyri.2018a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:fufolio:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architecture model of binary images manipulable by URN reference.  See <TBA>.
 urn:cite2:fufolio:poxy2099_dse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
+urn:cite2:cite:verbs.v1:#urn:cite2:cite:datamodels.v1:commentary#Commentary Model#URN comments on URN. See documentation at <https://github.com/cite-architecture/commentary>.
 
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
@@ -24,6 +25,14 @@ urn:cite2:fufolio:macan_hdt.2018demo:#Reginald Walter Macan's Commentary on Hero
 urn:cite2:cite:datamodels.v1:#CITE data models#urn:cite2:cite:datamodels.v1.label:##Public domain
 urn:cite2:fufolio:binaryimg.v1:#Collections of binary images#urn:cite2:fufolio:binaryimg.v1.label:##Public domain
 urn:cite2:fufolio:poxy2099_dse.v1:#DSE model of HMT editions#urn:cite2:fufolio:poxy2099_dse.v1.label:#urn:cite2:fufolio:poxy2099_dse.v1.seq:#CC-attribution-share-alike
+urn:cite2:cite:verbs.v1:#Collection of verbal relations#urn:cite2:cite:verbs.v1.label:##Public Domain
+
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:cite:verbs.v1.urn:#URN#Cite2Urn#
+urn:cite2:cite:verbs.v1.label:#label#String#
+urn:cite2:cite:verbs.v1.description:#description#String#
 
 #!citeproperties
 Property#Label#Type#Authority list
@@ -63,6 +72,10 @@ urn:cite2:fufolio:poxy2099.v1.urn:#URN#Cite2Urn#
 urn:cite2:fufolio:poxy2099.v1.rv:#Recto or Verso#String#recto,verso
 urn:cite2:fufolio:poxy2099.v1.label:#Label#String#
 urn:cite2:fufolio:poxy2099.v1.defaultimg:#Default image#Cite2Urn#
+
+#!citedata
+urn#label#description
+urn:cite2:cite:verbs.v1:commentsOn#comments on#subject[Urn] comments on object[Urn]
 
 #!citedata
 urn#label#collection#protocol#path#url#rights
@@ -781,4 +794,4 @@ urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn
 urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.22.10
 urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.22.11
 urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.22.12
-
+urn:cite2:fufolio:macan_hdt.2018demo:1002#urn:cite2:cite:verbs.v1:commentsOn#
