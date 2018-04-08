@@ -76,6 +76,8 @@ urn:cite2:fufolio:poxy2099.v1.defaultimg:#Default image#Cite2Urn#
 #!citedata
 urn#label#description
 urn:cite2:cite:verbs.v1:commentsOn#comments on#subject[Urn] comments on object[Urn]
+urn:cite2:cite:verbs.v1:illustrates#illustrates#subject[Urn] comments on object[Urn]
+urn:cite2:cite:verbs.v1:hasOnIt#has on it#subject[Urn] comments on object[Urn]
 
 #!citedata
 urn#label#collection#protocol#path#url#rights
@@ -795,3 +797,21 @@ urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn
 urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.22.11
 urn:cite2:fufolio:macan_hdt.2018demo:1001#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.22.12
 urn:cite2:fufolio:macan_hdt.2018demo:1002#urn:cite2:cite:verbs.v1:commentsOn#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.22.14-8.22.18
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:hasOnIt#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.68
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:hasOnIt#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.69
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:hasOnIt#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.71
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:hasOnIt#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.72
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:hasOnIt#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.72
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:hasOnIt#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.73
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.68
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.69
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.71
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.72
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.72
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0016.tlg001.grc.tokens:8.23.73
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.2283,0.3957,0.2131,0.04936
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.4477,0.4068,0.2251,0.05617
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.6560,0.4043,0.06784,0.04000
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.6616,0.4230,0.06784,0.04000
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.2314,0.4570,0.09816,0.04681
+urn:cite2:fufolio:poxy2099.v1:1#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:fufolio:papyri.2018a:POxy0017n2099a01@0.3344,0.4681,0.2370,0.05617
