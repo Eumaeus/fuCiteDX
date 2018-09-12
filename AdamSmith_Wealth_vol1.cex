@@ -11,7 +11,7 @@ license#This work is in the public domain.
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
 urn:cts:fufolio:adamsmith.won1.fu2018:#book, section, subsection#Adam Smith#Wealth of Nations Volume 1#Edwin Cannan, ed., 1776 (a transformation of the Cannan edition, from the Online Library of Libery, Liberty Fund, inc.) Digital edition by Christian Alexandrou, Christopher Blackwell, Brandon Elmy.##true#eng
-urn:cts:fufolio:adamsmith.won1.fu2018.heads:#book, section, subsection#Adam Smith#Edwin Cannan, ed., 1776 (a transformation of the Cannan edition, from the Online Library of Libery, Liberty Fund, inc.) Digital edition by Christian Alexandrou, Christopher Blackwell, Brandon Elmy.#Marginal Paragraph Summaries (E. Cannan)#true#eng
+urn:cts:fufolio:adamsmith.won1.fu2018.heads:#book, section, subsection#Adam Smith#Wealth of Nations Volume 1#Edwin Cannan, ed., 1776 (a transformation of the Cannan edition, from the Online Library of Libery, Liberty Fund, inc.) Digital edition by Christian Alexandrou, Christopher Blackwell, Brandon Elmy.#Marginal Paragraph Summaries (E. Cannan)#true#eng
 
 #!ctsdata
 urn:cts:fufolio:adamsmith.won1.fu2018:0.226#THE annual  labour of every nation is the fund which originally  supplies it with all the necessaries and conveniencies of life  which it annually consumes, and which consist always either in the immediate produce of that labour, or in what is purchased with that produce from other nations.
