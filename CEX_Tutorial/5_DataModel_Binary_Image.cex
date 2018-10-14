@@ -14,7 +14,7 @@ license#CC Share Alike.  For details, see more info.
 // 
 #!datamodels
 Collection#Model#Label#Description
-// "imagemodel" identifies a collection as a collection of "citable imges"
+// "imagemodel" identifies a collection as a collection of "citable images"
 urn:cite2:fufolio:papyri.2018a:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 //
 // "binaryimg" identifies a _new_ collection that provides data necessary to resolve image URNs
