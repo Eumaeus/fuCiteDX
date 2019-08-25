@@ -1,0 +1,15 @@
+// Library of texts for teaching CITE Collections
+// The pound sign "#" is used as a column divider.
+#!cexversion
+3.0
+#!citelibrary
+name#ICT3 Test
+urn#urn:cite2:furman:cex.2019a:ict3_omega_1_12
+license#Creative Commons Attribution Share Alike
+
+#!relations
+urn:cite2:hmt:e4img.2017a:e4_547@0.04390,0.2138,0.08408,0.01653#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0012.tlg001.e4.tok:1.1.1
+urn:cite2:hmt:e4img.2017a:e4_239@0.1811,0.2391,0.05605,0.01703#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0012.tlg001.e4.tok:1.35.1
+urn:cite2:hmt:e4img.2017a:e4_546@0.08631,0.1227,0.02505,0.017033#urn:cite2:cite:verbs.v1:illustrates#urn:cts:greekLit:tlg0012.tlg00.e4.tok:1.74.1
+
+
